@@ -2,10 +2,10 @@
 
 <div>
     <p style="display: inline">I'm Awe, a self-taught hobbyist fullstack developer working on many projects hoping to improve my resume in the future</p>
-    <p>Im open for any collabs. Feel free to contact me</p>
+    <p>Open for any collabs. Feel free to contact me</p>
 </div>
 
-<h3>things I code on</h3>
+<h3>Languages/Tools I have experience in</h3>
 <p>
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
