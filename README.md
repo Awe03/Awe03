@@ -2,7 +2,6 @@
 
 <div>
     <p style="display: inline">I'm Awe, a self-taught hobbyist fullstack developer working on many projects hoping to improve my resume in the future</p>
-    <p>Open for any collabs. Feel free to contact me</p>
 </div>
 
 <h3>Languages/Tools I have experience in</h3>
